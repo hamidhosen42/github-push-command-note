@@ -1,3 +1,10 @@
+```
+যদি কোন github থেকে কোড clone করার পর নতুন repository তে রাখতে চাই তাহলে 
+1. git remote -v
+2. git remote set-url (যে নতুন repository তে রাখবো তার লিংক)
+```
+
+
 
                   3-1 github Module Introduction
 
